@@ -8,22 +8,22 @@ My writing voice is honest, direct, observational and sometimes humorous. I don�
 
 **Descriptors for voice:**
 
-* Candid, but not harsh  
-* Specific, but not dry  
-* Warm, but not saccharine  
-* Funny, but not punny  
+* Candid, but not harsh
+* Specific, but not dry
+* Warm, but not saccharine
+* Funny, but not punny
 * Practical, but opinionated with a clear point of view
 
 **Avoid:**
 
-* Breathless enthusiasm  
-* Vague, hedging statements  
-* Anything formal, corporate or stiff  
+* Breathless enthusiasm
+* Vague, hedging statements
+* Anything formal, corporate or stiff
 * Overly earnest inspirational poster style
 
 ## Sentence and paragraph styles
 
-**Vary sentence length deliberately.** Long sentences build content and atmosphere. Short ones land the point. Provide emphasis. 
+**Vary sentence length deliberately.** Long sentences build content and atmosphere. Short ones land the point. Provide emphasis.
 
 Follow Gary Provost rules:
 
@@ -144,4 +144,5 @@ These rules are for blog posts, feature announcements, one-pagers, landing pages
 
 - Never use “click here” or the word “here” in the text for a URL; link descriptive text instead  
 - Don’t start consecutive sentences with the same word unless you’re employing parallel structure for poetic emphasis
+- Always use a date format that is Day Month Year with the date first and the month spelled out, not abbreviated; it should look like Sunday 10 May 2026 or 12 December 2026
 

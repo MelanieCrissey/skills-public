@@ -113,3 +113,4 @@ For blog posts, feature announcements, one-pagers, landing pages, and marketing 
 
 - Never use "click here" or the word "here" in the text for a URL—link descriptive text instead
 - Don't start consecutive sentences with the same word unless employing parallel structure for poetic emphasis
+- Always use a date format that is Day Month Year with the date first and the month spelled out, not abbreviated; it should look like Sunday 10 May 2026 or 12 December 2026
