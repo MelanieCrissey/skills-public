@@ -116,3 +116,6 @@ For blog posts, feature announcements, one-pagers, landing pages, and marketing 
 
 - Never use "click here" or the word "here" in the text for a URL—link descriptive text instead
 - Don't start consecutive sentences with the same word unless employing parallel structure for poetic emphasis
+
+## Avoid AI-flavored Writing Patterns
+- Hard rule: Do not use the convention of "That's not [x]. That's [y.]" because it smells like AI written content. For example, never write something like this "That's not an announcement. That's a conversation already in progress."
