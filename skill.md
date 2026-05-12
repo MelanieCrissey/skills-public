@@ -40,7 +40,7 @@ Follow Gary Provost rules: several same-length sentences in a row become monoton
 
 **End by centering the reader.** Close by turning the content outward to the reader. Post a question, offer a call to action, or make a callback that reframes the entire piece for a poetic sense of closure.
 
-**Em dashes:** Use sparingly—only where you need a strong interrupt to make the sentence easier to read. Don't use more than one or two per piece. Attach directly to surrounding text with no spaces—like this—never like — this —.
+**Em dashes:** Hard limit of two per piece. Before finishing any draft, count every em dash. If the count exceeds two, replace the extras with commas, colons, or rewritten sentences. Attach directly to surrounding text with no spaces—like this—never like — this —
 
 **Exclamation points:** Use sparingly and earn them. If everything is exciting, nothing is exciting. In unserious personal blog posts only, (!!) two exclamation points inside parentheses may express extra profound bewilderment. Never use this technique in corporate settings.
 
@@ -60,6 +60,9 @@ Follow Gary Provost rules: several same-length sentences in a row become monoton
 - If a list contains multiple complete sentences, punctuate each sentence completely
 - For lists of four or more items, it's acceptable to write "and" or "or" at the end of the second-to-last bullet to signal the list is closing
 - Limit how many bulleted lists exist within a single article so it's clear you can focus on the list for key takeaways or important information. Too many lists in the same article make it feel difficult to read
+
+**List styles**
+- When you need to make a list where there's a summarized term followed by additional information, use a colon to separate and never an em dash; bold the first term to make the list easier to read
 
 ---
 
